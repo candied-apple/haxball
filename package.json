@@ -1,12 +1,12 @@
 {
-  "name": "new-folder",
+  "name": "haxballroomcreator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "candied-apple",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.6.2",
